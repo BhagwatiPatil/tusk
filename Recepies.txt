@@ -7,4 +7,8 @@ pasta
 maggi
 
 
+khichadi
+pizza
+
+
 thnku
